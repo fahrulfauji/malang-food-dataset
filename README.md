@@ -52,11 +52,13 @@ The project contains:
 
 ## Screenshots
 
-### Dataset Preview
-(Add screenshot here)
+## Dataset Preview
 
-### Filtering & Sorting
-(Add screenshot here)
+![Dataset Preview](screenshots/Table_Spreadsheets.png)
+
+## Filtering & Sorting
+
+![Filtering](screenshots/Filtering_And_Sorting.png)
 
 ---
 
